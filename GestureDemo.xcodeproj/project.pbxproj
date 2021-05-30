@@ -13,6 +13,8 @@
 		5DF9DED726626CE300A39E72 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DF9DED526626CE300A39E72 /* Main.storyboard */; };
 		5DF9DED926626CE300A39E72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DF9DED826626CE300A39E72 /* Assets.xcassets */; };
 		5DF9DEDC26626CE300A39E72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DF9DEDA26626CE300A39E72 /* LaunchScreen.storyboard */; };
+		5DF9DEE426626D5B00A39E72 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF9DEE326626D5A00A39E72 /* ViewModel.swift */; };
+		5DF9DEE626626EF500A39E72 /* GestureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF9DEE526626EF500A39E72 /* GestureViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		5DF9DED826626CE300A39E72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DF9DEDB26626CE300A39E72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5DF9DEDD26626CE300A39E72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DF9DEE326626D5A00A39E72 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		5DF9DEE526626EF500A39E72 /* GestureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				5DF9DECF26626CE300A39E72 /* AppDelegate.swift */,
 				5DF9DED126626CE300A39E72 /* SceneDelegate.swift */,
 				5DF9DED326626CE300A39E72 /* ViewController.swift */,
+				5DF9DEE526626EF500A39E72 /* GestureViewController.swift */,
+				5DF9DEE326626D5A00A39E72 /* ViewModel.swift */,
 				5DF9DED526626CE300A39E72 /* Main.storyboard */,
 				5DF9DED826626CE300A39E72 /* Assets.xcassets */,
 				5DF9DEDA26626CE300A39E72 /* LaunchScreen.storyboard */,
@@ -139,6 +145,8 @@
 			files = (
 				5DF9DED426626CE300A39E72 /* ViewController.swift in Sources */,
 				5DF9DED026626CE300A39E72 /* AppDelegate.swift in Sources */,
+				5DF9DEE426626D5B00A39E72 /* ViewModel.swift in Sources */,
+				5DF9DEE626626EF500A39E72 /* GestureViewController.swift in Sources */,
 				5DF9DED226626CE300A39E72 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
